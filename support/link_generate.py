@@ -1,4 +1,4 @@
-import pdf
+import support.pdf
 from config import domain_url
 from config import location
 import random
