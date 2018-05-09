@@ -1,7 +1,7 @@
 # share-qr-with-password
 [![built with Python3](https://img.shields.io/badge/built%20with-Python3-red.svg)](https://www.python.org/)  &nbsp;&nbsp; ![Platforms](https://img.shields.io/conda/pn/conda-forge/python.svg)<br>
 **Want to share messages from qr but to have have passwords? you're at right place**<br>
-This python script makes pdf with password protection and uploads it to dropbox and makes a sharable link of it.
+This python script makes pdf with password protection and uploads it to dropbox and makes a sharable link of it in background!
 
 ### Installation:
 ```bash
@@ -17,7 +17,7 @@ This python script makes pdf with password protection and uploads it to dropbox 
     - Type of access - Full Dropbox
     - App name : Any name of your choice
   - Goto app in 'my apps' and from 'OAuth 2' generate access token of that app.
-  - Copy access token and copy that to ```config.py```
+  - Copy access token and paste that to ```config.py```
 
 #### Execute It:
 ```bash
