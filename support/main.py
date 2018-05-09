@@ -1,5 +1,4 @@
-import qr_generator
-import qrcode
+import support.qr_generator
 
 def start(text1,passw):
     inp = text1
