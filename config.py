@@ -1,4 +1,7 @@
 domain_url = "www.google.com"
+# master password of all pdfs
 owner_pass  = "pratik"
 location = ""
-TOKEN = '8aOVFz8iibAAAAAAAAAAz2EQ_EpQpALSwizJCWVTm_7DeuUwt8eQ6bv-RKps82ue'
+
+# token of app (dropbox)
+TOKEN = '___your_access_token_here_______'
