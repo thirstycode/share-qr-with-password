@@ -1,4 +1,3 @@
-import pandas
 import support.pdf
 
 def generate(value1,passw):
