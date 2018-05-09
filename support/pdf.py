@@ -4,7 +4,7 @@ from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import letter
 from config import owner_pass
 from config import location
-import share
+import support.share
 
 
 def make_pdf(text,id,passw):
