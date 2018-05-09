@@ -1,5 +1,5 @@
 from tkinter import *
-from main import start
+from support.main import start
 import time
 
 win = Tk()
