@@ -1,5 +1,4 @@
-import qr_generator
-import qrcode
+import support.qr_generator
 from PIL import Image
 
 
