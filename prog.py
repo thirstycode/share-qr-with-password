@@ -1,3 +1,4 @@
+# <-----https://github.com/thirstycode/share-qr-with-password------>
 from tkinter import *
 from support.main import start
 import time
